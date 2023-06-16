@@ -1,5 +1,5 @@
 {
-    "privacy_url" : ""
+    "privacy_url" : "https://sites.google.com/view/lillyceprivacy/",
     "enable_permission" : "false",
     "appworker" : "false", 
     "appworkerperiod" : "59",
@@ -15,10 +15,10 @@
     "fb_inter_id": "",
     "fb_native_id": "",
     "max_banner_enable" : "false",
-    "max_inter_enable" : "false",
+    "max_inter_enable" : "true",
     "max_native_enable" : "false",
     "max_banner_id": "",
-    "max_inter_id": "",
+    "max_inter_id": "2aa1ec17ae217c81",
     "max_native_id": "",
     "interstitial_step":"1",
     "update_active" : "false",
