@@ -1,5 +1,5 @@
 {
-    "privacy_url" : "https://sites.google.com/view/elynate-all-apps/"
+    "privacy_url" : "https://sites.google.com/view/elynate-all-apps/",
     "enable_permission" : "false",
     "appworker" : "false", 
     "appworkerperiod" : "15",
@@ -11,8 +11,8 @@
     "fb_banner_enable" : "false",
     "fb_inter_enable" : "false",
     "fb_native_enable" : "false",
-    "fb_banner_id": "",
-    "fb_inter_id": "",
+    "fb_banner_id": "939404770453241_942083900185328",
+    "fb_inter_id": "939404770453241_939665520427166",
     "fb_native_id": "",
     "max_banner_enable" : "false",
     "max_inter_enable" : "false",
