@@ -1,5 +1,5 @@
 {
-    "privacy_url" : "https://sites.google.com/view/elbooea-apps/",
+    "privacy_url" : "https://sites.google.com/view/elbooea-apps/"
     "enable_permission" : "false",
     "appworker" : "false", 
     "appworkerperiod" : "15",
@@ -8,8 +8,8 @@
     "first_ad_net" : "fb",
     "all_networks" : "false",
     "content_native_enable" : "false",
-    "fb_banner_enable" : "true",
-    "fb_inter_enable" : "true",
+    "fb_banner_enable" : "false",
+    "fb_inter_enable" : "false",
     "fb_native_enable" : "false",
     "fb_banner_id": "2614045622093874_2614405582057878",
     "fb_inter_id": "2614045622093874_2614045985427171",
